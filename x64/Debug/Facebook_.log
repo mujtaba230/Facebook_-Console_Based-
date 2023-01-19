@@ -1,0 +1,6 @@
+﻿  MasterFile.cpp
+C:\Users\Dell\source\repos\Facebook_\MasterFile.cpp(266): warning C4715: 'DATE::DateCheck': not all control paths return a value
+C:\Users\Dell\source\repos\Facebook_\MasterFile.cpp(1490): warning C4715: 'FACEBOOK::SearchPage': not all control paths return a value
+C:\Users\Dell\source\repos\Facebook_\MasterFile.cpp(1503): warning C4715: 'FACEBOOK::SearchUser': not all control paths return a value
+C:\Users\Dell\source\repos\Facebook_\MasterFile.cpp(1517): warning C4715: 'FACEBOOK::SearchPost': not all control paths return a value
+  Facebook_.vcxproj -> C:\Users\Dell\source\repos\Facebook_\x64\Debug\Facebook_.exe

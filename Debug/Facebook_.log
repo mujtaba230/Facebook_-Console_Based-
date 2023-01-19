@@ -1,0 +1,83 @@
+﻿  main.cpp
+C:\Users\Dell\source\repos\Facebook_\Posts.h(23,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(23,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\source\repos\Facebook_\Posts.h(23,41): error C2238: unexpected token(s) preceding ';'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(24,8): error C2143: syntax error: missing ';' before '*'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(24,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\source\repos\Facebook_\Posts.h(24,38): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Dell\source\repos\Facebook_\Posts.h(25,8): error C2143: syntax error: missing ';' before '*'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(25,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\source\repos\Facebook_\Posts.h(25,18): error C2238: unexpected token(s) preceding ';'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(39,29): error C2061: syntax error: identifier 'OBJECT'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(41,36): error C2061: syntax error: identifier 'OBJECT'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(44,19): error C2061: syntax error: identifier 'COMMENT'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(48,16): error C2061: syntax error: identifier 'OBJECT'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(49,15): error C2061: syntax error: identifier 'OBJECT'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(62,11): error C2065: 'likedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(62,18): error C2541: 'delete': cannot delete objects that are not pointers
+C:\Users\Dell\source\repos\Facebook_\Posts.h(63,2): error C2065: 'likedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(68,13): error C2065: 'COMMENT': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(68,2): error C2923: 'DEALLOCATE': 'COMMENT' is not a valid template type argument for parameter 'T'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(68): message : see declaration of 'COMMENT'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(68,23): error C2955: 'DEALLOCATE': use of class template requires template argument list
+C:\Users\Dell\source\repos\Facebook_\Deallocate.h(8): message : see declaration of 'DEALLOCATE'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(68,32): error C2065: 'comments': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(75,2): error C2065: 'sharedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(106,9): error C2065: 'sharedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(119,43): error C2061: syntax error: identifier 'OBJECT'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(123,2): error C2065: 'sharedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(123,13): error C2065: 'Shared_By': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(130,3): error C2065: 'sharedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(135,4): error C2065: 'comments': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(142,3): error C2065: 'sharedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(146,4): error C2065: 'comments': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(152,50): error C2061: syntax error: identifier 'OBJECT'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(154,2): error C2065: 'comments': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(154,31): error C2061: syntax error: identifier 'COMMENT'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(155,2): error C2065: 'comments': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(155,50): error C2065: 'temp': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(166,3): error C2065: 'likedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(178,4): error C2065: 'sharedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(183,5): error C2065: 'comments': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(189,4): error C2065: 'sharedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(193,5): error C2065: 'comments': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(199,32): error C2761: 'void POSTS::AddAComment(void)': redeclaration of member is not allowed
+C:\Users\Dell\source\repos\Facebook_\Posts.h(199,25): error C2065: 'COMMENT': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(199,34): error C2065: 'comm': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(200,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(200,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dell\source\repos\Facebook_\Posts.h(241,9): error C2065: 'sharedBy': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(244,28): error C2761: 'void POSTS::SharedBy(void)': redeclaration of member is not allowed
+C:\Users\Dell\source\repos\Facebook_\Posts.h(244,22): error C2065: 'OBJECT': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(244,30): error C2065: 'a': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(245,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(245,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dell\source\repos\Facebook_\Posts.h(249,27): error C2761: 'void POSTS::LikedBy(void)': redeclaration of member is not allowed
+C:\Users\Dell\source\repos\Facebook_\Posts.h(249,21): error C2065: 'OBJECT': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(249,29): error C2065: 'ptr': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Posts.h(250,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dell\source\repos\Facebook_\Posts.h(250,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dell\source\repos\Facebook_\Users.h(109,2): error C2065: 'MEMORY': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Users.h(109,10): error C2065: 'TMemory': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Users.h(109,24): error C2061: syntax error: identifier 'MEMORY'
+C:\Users\Dell\source\repos\Facebook_\Users.h(109,30): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dell\source\repos\Facebook_\Users.h(109,47): error C2143: syntax error: missing ';' before '}'
+C:\Users\Dell\source\repos\Facebook_\Users.h(111,16): error C2065: 'TMemory': undeclared identifier
+C:\Users\Dell\source\repos\Facebook_\Users.h(132,22): error C2660: 'POSTS::LikedBy': function does not take 1 arguments
+C:\Users\Dell\source\repos\Facebook_\Posts.h(49,7): message : see declaration of 'POSTS::LikedBy'
+C:\Users\Dell\source\repos\Facebook_\Memory.h(38,20): error C2660: 'POSTS::SharedBy': function does not take 1 arguments
+C:\Users\Dell\source\repos\Facebook_\Posts.h(48,7): message : see declaration of 'POSTS::SharedBy'
+C:\Users\Dell\source\repos\Facebook_\Facebook.h(132,58): error C2660: 'POSTS::AddANewComment': function does not take 3 arguments
+C:\Users\Dell\source\repos\Facebook_\Posts.h(152,13): message : see declaration of 'POSTS::AddANewComment'
+C:\Users\Dell\source\repos\Facebook_\Facebook.h(144,63): error C2660: 'POSTS::AddANewComment': function does not take 3 arguments
+C:\Users\Dell\source\repos\Facebook_\Posts.h(152,13): message : see declaration of 'POSTS::AddANewComment'
+C:\Users\Dell\source\repos\Facebook_\Facebook.h(221,36): error C2660: 'POSTS::AddAComment': function does not take 1 arguments
+C:\Users\Dell\source\repos\Facebook_\Posts.h(44,7): message : see declaration of 'POSTS::AddAComment'
+C:\Users\Dell\source\repos\Facebook_\Facebook.h(250,29): error C2660: 'POSTS::SharedBy': function does not take 1 arguments
+C:\Users\Dell\source\repos\Facebook_\Posts.h(48,7): message : see declaration of 'POSTS::SharedBy'
+C:\Users\Dell\source\repos\Facebook_\Facebook.h(259,29): error C2660: 'POSTS::SharedBy': function does not take 1 arguments
+C:\Users\Dell\source\repos\Facebook_\Posts.h(48,7): message : see declaration of 'POSTS::SharedBy'
+C:\Users\Dell\source\repos\Facebook_\Facebook.h(273,29): error C2660: 'POSTS::LikedBy': function does not take 1 arguments
+C:\Users\Dell\source\repos\Facebook_\Posts.h(49,7): message : see declaration of 'POSTS::LikedBy'
+C:\Users\Dell\source\repos\Facebook_\Facebook.h(280,29): error C2660: 'POSTS::LikedBy': function does not take 1 arguments
+C:\Users\Dell\source\repos\Facebook_\Posts.h(49,7): message : see declaration of 'POSTS::LikedBy'
